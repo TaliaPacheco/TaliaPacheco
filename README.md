@@ -23,14 +23,3 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/56663586/185466838-1095e53c-4ccb-45b0-a7c3-d0816408473a.png">
-
-<div align="center">
-    <br>
-    <p align="center">
-        <b>Visitors Count</b>
-    </p>  
-    <p align="center">
-        <img align="center" src="https://profile-counter.glitch.me/{TaliaPacheco}/count.svg" />
-    </p> 
-    <br>
-</div>
