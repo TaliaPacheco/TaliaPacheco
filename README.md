@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1000&pause=200&color=8C51F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=200&lines=Welcome!!;Hello%2C+my+name+is+Talia+Pacheco!;I'm+a+systems+analysis+and+development+student;I'm+starting+my+career+in+development+;and+I'm+always+looking+to+improve!)](https://git.io/typing-svg)]
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TaliaPacheco&bg_color=0d111700&color=ad62f7&line=ad62f7&point=b096f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
