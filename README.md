@@ -1,77 +1,110 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1000&pause=200&color=8C51F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=200&lines=Welcome!!;Hello%2C+my+name+is+Talia+Pacheco!;I'm+a+systems+analysis+and+development+student;I'm+starting+my+career+in+development+;and+I'm+always+looking+to+improve!)](https://git.io/typing-svg)]
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TaliaPacheco&bg_color=0d111700&color=ad62f7&line=ad62f7&point=b096f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-    <a href="#">
-        <img lign="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TaliaPacheco&hide_border=true&background=20232A00&ring=713FF7&fire=B096F7&sideLabels=9F7FF7&dates=c2aef7&sideNums=B096F7&currStreakNum=B096F7&currStreakLabel=B096F7" width="48%" >
-<!--         <img lign="right" src="https://github-readme-stats.vercel.app/api?username=TaliaPacheco&show_icons=true&hide_border=true&theme=react&title_color=ad62f7&text_color=b096f7&icon_color=ad62f7&bg_color=20232A00&count_private=true" width="48%"> -->
-    </a>
-</div>
 <div align="center">
 
-<div align="center" style="margin:20px; width: 500px">
-    <div>
-        <a href="https://www.linkedin.com/in/talia-pacheco/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        <a href="https://wa.me/+5513997467931/?text=Ol%C3%A1+Talia%2C+eu+estou+vindo+por+meio+do+seu+perfil+do+github%2C+gostaria+de+conhece-lo+melhor" target="_blank">
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-        </a>
-        <a href="mailto:taliapacheco0@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
-    </div>
+<img src="./banner.png" width="100%" alt="Talia Pacheco — Full Stack Developer" />
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=36&duration=3000&pause=900&color=A371F7&center=true&vCenter=true&width=760&height=80&lines=Hi%2C+I'm+Talia+Pacheco;%3C+Full+Stack+Developer+%2F%3E;Always+learning%2C+always+leveling+up" alt="Talia Pacheco" />
+
+<br />
+
+<a href="https://www.linkedin.com/in/talia-pacheco/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:taliapacheco0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/TaliaPacheco"><img src="https://img.shields.io/badge/GitHub-2B3137?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br />
+
+🎮 &nbsp; HP &nbsp; ❤️ ❤️ ❤️ ❤️ ❤️
+
 </div>
 
-<div style="
-    display: grid;
-    grid-template-columns: auto auto;
-    padding: 10px;
-">
-    <div style="background-color:#b096f710; border-radius: 8px; margin: 10px;width: 350px">
-        <h3 style="font-weight:bold; padding: 8px 0 6px;">Development Kit</h3>
-        <div style="background-color:#b096f710; padding: 8px 0; border-radius: 8px; width: 350px;">
-            <img src="https://img.shields.io/badge/-Node.js ✨-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117"> 
-            <img src="https://img.shields.io/badge/-Docker ✨-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117"/>
-            <img src="https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&textColor=0D1117">
-        </div>
-    </div>
-    <div style="background-color:#b096f710; border-radius: 8px; margin: 10px;width: 350px;">
-        <h3 style="font-weight:bold; padding: 8px 0 6px;">Languages</h3>
-        <div style="background-color:#b096f710; padding: 8px 0; border-radius: 8px; width: 350px;">
-            <img src="https://img.shields.io/badge/-JavaScript ✨-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
-            <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117">
-        </div>
-    </div>
-    <div style="background-color:#b096f710; border-radius: 8px; margin: 10px;width: 350px;">
-        <h3 style="font-weight:bold; padding: 8px 0 6px;">Front End Kit</h3>
-        <div style="background-color:#b096f710; padding: 8px 0; border-radius: 8px; width: 350px;">
-            <img src="https://img.shields.io/badge/-React.js ✨-0D1117?style=for-the-badge&logo=react&labelColor=0D1117">
-            <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117">
-            <img src="https://img.shields.io/badge/-React Router-0D1117?style=for-the-badge&logo=react-router&labelColor=0D1117">
-            <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117">
-            <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/>
-        </div>
-    </div>
-    <div style="background-color:#b096f710; border-radius: 8px; margin: 10px;width: 350px; height: fit-content;">
-        <h3 style="font-weight:bold; padding: 8px 0 6px;">Main Databases</h3>
-        <div style="background-color:#b096f710; padding: 8px 0; border-radius: 8px; width: 350px;">
-            <img src="https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117">
-            <img src="https://img.shields.io/badge/-MySQL ✨-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
-        </div>
-    </div>
-    <div style="background-color:#b096f710; border-radius: 8px; margin: 10px;width: 350px;">
-        <h3 style="font-weight:bold; padding: 8px 0 6px;">Development Tools</h3>
-        <div style="background-color:#b096f710; padding: 8px 0; border-radius: 8px; width: 350px;">
-            <img src="https://img.shields.io/badge/-Visual%20Studio%20Code ✨-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/>
-            <img src="https://img.shields.io/badge/-Dbeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117&textColor=0D1117">
-            <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
-            <img src="https://img.shields.io/badge/-GitHub ✨-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
-            <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117">
-            <img src="https://img.shields.io/badge/Arch_Linux ✨-0D1117?style=for-the-badge&logo=arch-linux&labelColor=0D1117">
-        </div>
-    </div>
+---
+
+<div align="center">
+
+## 👾 About me
+
+Hi! I'm **Talia** — a developer who loves turning ideas into working software. 🚀
+
+Big fan of **pixel art** and well-crafted code, always working towards cleaner architecture.<br />
+Always learning, always leveling up.
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/56663586/185466838-1095e53c-4ccb-45b0-a7c3-d0816408473a.png">
+---
+
+<div align="center">
+
+## 🗡️ Tech Stack
+
+**Languages**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+
+**Backend &amp; DevOps**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
+**Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-2B3137?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TaliaPacheco&show_icons=true&count_private=true&hide_border=false&border_radius=8&title_color=C9B0FF&icon_color=A371F7&text_color=E8E6F0&bg_color=15121E&border_color=3D3355" alt="Talia's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaliaPacheco&layout=compact&hide_border=false&border_radius=8&title_color=C9B0FF&text_color=E8E6F0&bg_color=15121E&border_color=3D3355" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=TaliaPacheco&hide_border=false&border_radius=8&background=15121E&border=3D3355&stroke=3D3355&ring=A371F7&fire=FF5C8A&currStreakLabel=C9B0FF&sideLabels=E8E6F0&currStreakNum=E8E6F0&sideNums=E8E6F0&dates=9D97B5&titleColor=C9B0FF" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TaliaPacheco&custom_title=Talia's%20Contribution%20Graph&bg_color=15121E&color=C9B0FF&line=A371F7&point=FFFFFF&area=true&area_color=A371F7&title_color=C9B0FF&hide_border=false&radius=8" alt="Contribution graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ❤️ Thanks for visiting — happy coding!
+
+<img src="https://komarev.com/ghpvc/?username=TaliaPacheco&color=a371f7&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+</div>
