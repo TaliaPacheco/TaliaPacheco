@@ -24,7 +24,7 @@
 
 ## 👾 About me
 
-Hi! I'm **Talia** — a developer who loves turning ideas into working software. 🚀
+Hi! I'm **Talia**, a developer who loves turning ideas into working software. 🚀
 
 Big fan of **pixel art** and well-crafted code, always working towards cleaner architecture.<br />
 Always learning, always leveling up.
