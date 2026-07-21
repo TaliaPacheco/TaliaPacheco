@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/talia-pacheco/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:taliapacheco0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/TaliaPacheco"><img src="https://img.shields.io/badge/GitHub-2B3137?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
 
 <br />
 
