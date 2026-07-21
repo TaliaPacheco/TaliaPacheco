@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="./banner.png" width="100%" alt="Talia Pacheco — Full Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=36&duration=3000&pause=900&color=A371F7&center=true&vCenter=true&width=760&height=80&lines=Hi%2C+I'm+Talia+Pacheco;%3C+Full+Stack+Developer+%2F%3E;Always+learning%2C+always+leveling+up" alt="Talia Pacheco" />
 
-  <br /><br />
+ <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=36&duration=3000&pause=900&color=A371F7&center=true&vCenter=true&width=760&height=80&lines=Hi%2C+I'm+Talia+Pacheco;%3C+Full+Stack+Developer+%2F%3E;Always+learning%2C+always+leveling+up" alt="Talia Pacheco" />
+  <img src="./banner.png" width="80%" alt="Talia Pacheco — Full Stack Developer" />
 
-  <br />
+   <br /><br />
 
   <a href="https://www.linkedin.com/in/talia-pacheco/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:taliapacheco0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
